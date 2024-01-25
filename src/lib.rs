@@ -1,6 +1,8 @@
 mod array_except_self;
 mod best_time_to_by;
 mod contains_duplicate;
+mod daily_temperatures;
+mod generate_parentheses;
 mod group_anagrams;
 mod is_anagram;
 mod k_frequent_elements;
