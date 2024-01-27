@@ -7,6 +7,7 @@ mod generate_parentheses;
 mod group_anagrams;
 mod is_anagram;
 mod k_frequent_elements;
+mod largest_rectangle_histogram;
 mod longest_character_replacement;
 mod longest_sequence;
 mod longest_substring_without_repeating;
