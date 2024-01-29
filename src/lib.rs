@@ -17,6 +17,7 @@ mod min_window_substr;
 mod most_water;
 mod permutation_in_string;
 mod reverse_polish_notation;
+mod search_2d_matrix;
 mod sliding_win_max;
 mod three_sum;
 mod trapping_rain_water;
