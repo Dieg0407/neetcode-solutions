@@ -8,6 +8,7 @@ mod generate_parentheses;
 mod group_anagrams;
 mod is_anagram;
 mod k_frequent_elements;
+mod koko_eating_bananas;
 mod largest_rectangle_histogram;
 mod longest_character_replacement;
 mod longest_sequence;
