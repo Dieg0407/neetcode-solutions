@@ -15,6 +15,7 @@ mod longest_sequence;
 mod longest_substring_without_repeating;
 mod min_stack;
 mod min_window_substr;
+mod minimum_sorted_array;
 mod most_water;
 mod permutation_in_string;
 mod reverse_polish_notation;
